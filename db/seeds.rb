@@ -69,7 +69,7 @@ Ground the toes into the floor and squeeze the glutes to stabilize the body. You
 Neutralize the neck and spine by looking at a spot on the floor about a foot beyond the hands. Your head should be in line with your back.
 Hold the position for 20 seconds. As you get more comfortable with the move, hold your plank for as long as possible without compromising form or breath.",
     video: "https://youtu.be/ASdvN_XEl_c",
-    number: ,
+    number: 20,
     category_id: 1
   },
   {
@@ -170,7 +170,7 @@ Downward Phase: Begin your downward phase by first shifting your hips backwards 
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode forward and upwards through your lower extremity while throwing your arms overhead to achieve triple extension (pushing and extending your ankles, knees and hips simultaneously). As your jump into the air, try to keep your feet next to each other.
 While in the air traveling forward pull your legs in front of you while keeping your feet next to each other in order to prepare for the landing.  Your head should be level with your eyes looking to the spot on the floor where you want to land.
 Your legs should be in front of you with the feet parallel next to each other, bend the knees and flex the hips to prepare to absorb the impact forces of the landing.  Keep your eyes on the floor to prepare for the landing.
-Landing phase: Keep your feet parallel next to each other and attempt to land softly on the whole foot, let the balls of the feet hit the ground first and quickly roll down to your heels while sinking your weight back into your heels and hips.  Use the rapid bending of the hips and knees to absorb the impact forces of the landing, do not land with a straight or hyper-extended knee as this could create an injury."
+Landing phase: Keep your feet parallel next to each other and attempt to land softly on the whole foot, let the balls of the feet hit the ground first and quickly roll down to your heels while sinking your weight back into your heels and hips.  Use the rapid bending of the hips and knees to absorb the impact forces of the landing, do not land with a straight or hyper-extended knee as this could create an injury.",
     video: "https://youtu.be/M8usm9Hf5Qg",
     number: 10,
     category_id: 1
@@ -181,7 +181,7 @@ Landing phase: Keep your feet parallel next to each other and attempt to land so
 Contract your core and raise your hips until your body is in a straight line from head to feet.
 Hold the position without letting your hips drop for the allotted time for each set, then repeat on the other side.",
     video: "https://youtu.be/K2VljzCC16g",
-    number: "15 seconds",
+    number: 15,
     category_id: 1
   },
   {
@@ -193,7 +193,7 @@ Hold the position without letting your hips drop for the allotted time for each 
   },
   {
     name: "lateral crawls",
-    description: "Start in plank position. Move to the side, crossing one hand over the other. Crawl back to your starting spot."
+    description: "Start in plank position. Move to the side, crossing one hand over the other. Crawl back to your starting spot.",
     video: "https://youtu.be/chO3cg4l83Q",
     number: 10,
     category_id: 1
@@ -213,7 +213,7 @@ Now lower the dumbbell back down slowly to the starting position as you simultan
 After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.
 Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible.",
     video: "https://youtu.be/Fkzk_RqlYig",
-    number: "10 steps",
+    number: 10,
     category_id: 2
   },
   {
