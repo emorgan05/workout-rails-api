@@ -5,7 +5,7 @@ class WorkoutsController < ApplicationController
   end
 
   def category
-    workouts = Workout.find_by(category_id: params[:id])
+    workouts = Workout.where("category_id = ?", params[:category_id])
     render json: workouts
   end
 end
