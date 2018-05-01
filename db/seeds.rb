@@ -7,9 +7,9 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 category_list = [
-  [ "bodyweight training" ],
-  [ "dumbbell training" ],
-  [ "barbell training" ],
+  "bodyweight training",
+  "dumbbell training",
+  "barbell training",
 ]
 
 category_list.each do |title|
